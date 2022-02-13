@@ -14,7 +14,7 @@ var trace1 = {
   x: data.map(row => row.greekSearchResults),
   y: data.map(row => row.greekName),
   text: data.map(row => row.greekName),
-  name: "Greek",
+  name: "Butthole",
   type: "bar",
   orientation: "h"
 };
